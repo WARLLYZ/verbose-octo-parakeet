@@ -1,0 +1,132 @@
+
+    body{
+    }
+    h1{
+        color: #d2d2f6;
+        font-family: sans-serif;
+        font-size: 16pt;
+        text-align: center;
+        text-decoration: underline;
+        font-weight: 250;
+    }
+    h3{
+        text-align: center;
+        font-size: 14pt;
+        font-family: sans-serif;
+        color: #d2d2f6;
+    }
+
+
+    head{
+        color: black;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 18pt;
+    }
+    a{
+        color: #d2d2f6;
+        text-align: center;
+        font-family: sans-serif;
+    }
+
+    p{
+
+          font-family: sans-serif;
+          font-weight: 250;
+
+          text-decoration: none;
+          font-size: 15pt
+        }
+    ul{
+      text-align: center;
+      list-style-position: inside;
+      font-weight: 300;
+      color: #d2d2f6;
+      font-family: sans-serif;
+      font-size: 14pt;
+      font-style: oblique;
+        }
+
+      #para1{
+        color: #d2d2f6;
+      }
+      #para2{
+        color: #d2d2f6;
+        text-align: center;
+      }
+      #para3{
+        color: #d2d2f6;
+        text-align: center;
+
+      }
+      #head2{
+        color: #8a8aa1;
+      }
+      #connect{
+        width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        border: solid #8a8aa1 3px;
+
+      }
+      #img1{
+        position: centered;
+
+      }
+      #content{
+        display: flex;
+        align-items: center;
+        position: relative;
+      }
+      #content p{
+        margin-left: 1em;
+
+      }
+      #content img{
+        margin-left: 30%;
+
+      }
+
+
+         form{
+            padding: 15px;
+            background-color: white;
+            font-style: italic;
+            border-style: solid;
+            font-weight: 900px;
+            width:225px;
+            margin-left: auto;
+            margin-right: auto;
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            float: right;
+          }
+
+          input[type=button] {
+            color: black;
+            background-color: white;
+            paddding: 5px;
+            text-align: center;
+            margin: 0 auto;
+            display: block;
+          }
+         input[type=button]:hover{
+          border: solid;
+          background-color: green;
+
+        }
+
+            iframe.center {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+            }
+            .center {
+              margin-left: auto;
+              margin-right: auto;
+            }
+            #video1{
+              color: #282829;
+              text-align: center;
+            }
